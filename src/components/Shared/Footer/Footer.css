@@ -1,0 +1,29 @@
+.footer-area{
+    background-image: url('https://i.ibb.co/TTN8QZJ/footer-bg.jpg');
+    background-size: 100%;
+    text-decoration: none;
+    background-position: center center;
+    color: rgb(105, 105, 105);
+    margin: 0;
+}
+
+.footer-area a{
+    text-decoration: none;
+}
+
+.footer-area li{
+    padding-bottom: 10px;
+}
+
+.social-media .icon{
+    height: 40px;
+    width: 40px;
+    color: rgb(45, 45, 95);
+    border-radius: 50%;
+    border: 1px solid rgb(59, 59, 104);
+    padding: 10px;
+}
+.social-media .active-icon{
+    background-color: rgb(59, 59, 104) ;
+    color:white;
+}

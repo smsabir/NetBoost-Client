@@ -1,0 +1,36 @@
+.flex-payment {
+    background: black;
+    color: white;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+    transform: translateY(-30px);
+}
+
+.net-speed {
+    background: rgb(148, 10, 10);
+    color: white;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+    transform: translateY(+150px);
+}
+
+.about-right {
+    padding: 0;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    border-radius: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center center; */
+    background-image: url('https://i.ibb.co/pnzJt8w/playing.jpg');
+}
+
+@media only screen and (max-width: 500px) {
+    .net-speed{
+        transform: translateY(+100px);
+  }
+}

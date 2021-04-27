@@ -1,0 +1,13 @@
+.header-list ul{
+    list-style: none;
+}
+
+.header-list img{
+    height: auto;
+    width: 80%;
+    border-radius: 30px;
+}
+
+.header-list{
+    color: rgb(0, 0, 0);
+}

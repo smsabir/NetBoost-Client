@@ -1,0 +1,18 @@
+.sidebar{
+    background-color: rgb(224, 224, 224);
+}
+.sidebar a{
+    text-decoration: none;
+    color: gray;
+}
+.sidebar li{
+    margin-bottom: 2em;
+    color: gray;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(10px);
+}
+.sidebar svg{
+    margin-right: 5px;
+}

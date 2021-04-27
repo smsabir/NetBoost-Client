@@ -1,0 +1,13 @@
+.project-card{
+   box-shadow: 0px 0px 5px rgb(105, 105, 105);
+   margin: 10px;
+   text-align: center;
+   border-radius: 10px;
+}
+
+.project-card img{
+   width: 100%;
+   height: auto;
+   padding: 5px;
+   border-radius: 10px;
+}

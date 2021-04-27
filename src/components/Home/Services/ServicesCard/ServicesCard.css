@@ -1,0 +1,35 @@
+.service-card{
+    padding: 7px;
+    margin: 10px;
+    transition: 0.4s ease-out;
+    cursor: pointer;
+}
+
+.service-card #cart-icon{
+    visibility: hidden;
+    position: absolute;
+    opacity:0;
+    transform: translateY(-50px);
+}
+
+.service-card:hover{
+		transform: translateY(-20px);
+}
+
+.service-card:hover img{
+    transition: 0.3s ease-out;
+    opacity: 0;
+}
+.service-card:hover #card-info{
+    transition: 0.5s ease;
+    transform: translateY(-20px)
+}
+.service-card:hover #cart-icon{
+    text-align: center;
+    position: inherit;
+    font-size: 50px;
+    visibility: visible;
+    transition: 0.5s ease;
+    opacity: 1;
+    transform: translateY(-10px)
+}   

@@ -1,0 +1,35 @@
+table{
+    border-collapse: collapse;
+    border: 1px solid #dddddd;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: rgb(233, 233, 233);
+}
+td {
+    border-bottom: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+}
+
+table select{
+    border: none;
+    background-color: rgb(218, 218, 218);
+    padding: 5px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+select option{
+background-color: #e1f6d7;
+  color: gray;
+  padding: 10px;
+  border: none;
+  font-size: 15px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}

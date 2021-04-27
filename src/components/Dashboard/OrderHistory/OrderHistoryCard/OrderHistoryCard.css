@@ -1,0 +1,10 @@
+.history-card{
+
+    padding: 7px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.history-card .icon{
+    font-size: 45px;
+    color: rgb(45, 45, 95);
+}
