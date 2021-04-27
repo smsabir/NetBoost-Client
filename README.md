@@ -14,8 +14,8 @@ React, Node, MongoDB, React Router, Hook Form, Stripe payment, Bootstrap.
 * Order Status.
 
 
-Github:  https://github.com/Porgramming-Hero-web-course/complete-website-client-smsabir
+Github:  https://github.com/smsabir/NetBoost-Client
 Live: https://netboost.web.app/
 
 Server: https://immense-thicket-36192.herokuapp.com/
-Github: https://github.com/Porgramming-Hero-web-course/complete-website-server-smsabir
+Github: https://github.com/smsabir/NetBoost-Server
